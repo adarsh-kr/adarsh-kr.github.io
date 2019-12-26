@@ -1,10 +1,10 @@
 # Dependencies
-markdown:         kramdown
+markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-#relative_permalinks: true
+relative_permalinks: true
 
 # Setup
 title:            Hyde
@@ -24,10 +24,3 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/poole/hyde
-
-gems:
-  - jekyll-paginate
-  - redcarpet
-  - jekyll-gist
-  - pygments.rb
-
