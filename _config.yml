@@ -1,17 +1,17 @@
 # Dependencies
-markdown:         kramdown
-highlighter:      rogue
+markdown:         redcarpet
+highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-#relative_permalinks: true
+relative_permalinks: true
 
 # Setup
-title:            adarsh kumar
-tagline:          'a homo-sapien'
-description:      '-.-.-.-.'
-url:              adarsh-kr.github.io
-baseurl:          /adarsh-kr.github.io/
+title:            Hyde
+tagline:          'A Jekyll theme'
+description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://hyde.getpoole.com
+baseurl:          /
 
 author:
   name:           'Mark Otto'
@@ -24,9 +24,3 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/poole/hyde
-
-gems:
-  - jekyll-paginate
-  - jekyll-gist
-  - github-pages
-
