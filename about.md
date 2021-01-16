@@ -4,8 +4,16 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Namaste!  This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
+
+
+
+Namaste, I'm Adarsh. Currently, an Applied Scientist in Alexa at Amazon, LA. I am part of the Alexa Search where I work on web-scale Question Answering. My research interests are in designing efficient Deep Learning Models for Open Domain Question Answering.
+
+I did my undergrad at IIT-Guwahati as well, and worked on developing interpretable methods for predicting onset and weaning of invasive interventions for patients in Intensive Care Units. I've spent a couple summers interning, here in Cambridge at Google Brain, and enjoying the West Coast with Jawbone and Zephyr Health. I also love traveling, hiking, farmer's markets, cooking, taking photographs, and reading. 
+
+Adarsh is currently 
 
 In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
