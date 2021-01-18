@@ -4,23 +4,15 @@ title: About
 ---
 
 <p class="message">
-  Namaste!  This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
 
-
-
-Namaste, I'm Adarsh. Currently, an Applied Scientist in Alexa at Amazon, LA. I am part of the Alexa Search where I work on web-scale Question Answering. My research interests are in designing efficient Deep Learning Models for Open Domain Question Answering.
-
-I did my undergrad at IIT-Guwahati as well, and worked on developing interpretable methods for predicting onset and weaning of invasive interventions for patients in Intensive Care Units. I've spent a couple summers interning, here in Cambridge at Google Brain, and enjoying the West Coast with Jawbone and Zephyr Health. I also love traveling, hiking, farmer's markets, cooking, taking photographs, and reading. 
-
-Adarsh is currently 
-
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
 There are currently two themes built on Poole:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+- [Hyde](https://hyde.getpoole.com)
+- [Lanyon](https://lanyon.getpoole.com)
 
 Learn more and contribute on [GitHub](https://github.com/poole).
 
@@ -28,11 +20,10 @@ Learn more and contribute on [GitHub](https://github.com/poole).
 
 Some fun facts about the setup of this project include:
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+- Built for [Jekyll](https://jekyllrb.com)
+- Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
+- Coded with [Atom](https://atom.io), an amazing open source code editor
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 
 Thanks for reading!
