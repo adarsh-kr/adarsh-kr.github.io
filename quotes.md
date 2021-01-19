@@ -27,7 +27,7 @@ layout: page
 - "It is not the strongest of the species that survive, nor the most intelligent, but the one more responsive to change"-**Charles Darwin**
 - "In three words I can sum up everything I've learned about life: it goes on."-**Robert Frost**
 - "Violence is the last refuge of the incompetent"-**Asimov**
-- "A fool can ask more than a wise can answer"-**?**
+- "A fool can ask much more than a wise can answer"-**?**
 - "The greatest glory in living lies not in never falling, but in rising every time we fall."-**Nelson Mandela** 
 - "Success is not final; failure is not fatal: It is the courage to continue that counts."- **Winston S. Churchill**
 - "Long years ago, we made a tryst with destiny; and now the time comes when we shall redeem our pledge, not wholly or in full measure, but very substantially. At the stroke of the midnight hour, when the world sleeps, India will awake to life and freedom ..... "-**Tryst with Destiny, Pandit Jawahar Lal Nehru, 15th August, 1947. Indian Independence Day**
