@@ -30,7 +30,7 @@ layout: page
 - "A fool can ask more than a wise can answer"-**?**
 - "The greatest glory in living lies not in never falling, but in rising every time we fall."-**Nelson Mandela** 
 - "Success is not final; failure is not fatal: It is the courage to continue that counts."- **Winston S. Churchill**
-
+- "Long years ago, we made a tryst with destiny; and now the time comes when we shall redeem our pledge, not wholly or in full measure, but very substantially. At the stroke of the midnight hour, when the world sleeps, India will awake to life and freedom ..... "-**Tryst with Destiny, Pandit Jawahar Lal Nehru, 15th August, 1947. Indian Independence Day**
 
 
 
