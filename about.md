@@ -3,20 +3,18 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+<!-- ## Hi.  -->
 
-There are currently two themes built on Poole:
+  Hi, I'm Adarsh. Currently, I work as an **Applied Scientist** in the **Alexa Search Team** in **Los Angeles, CA**. 
+  
+  Previously, I obtained my **Masters** in [Computer Sciences Department](https://www.cs.wisc.edu/) from [University of Wisconsin-Madison](https://www.wisc.edu/), where I worked with **Prof. Aditya Akella**, **Prof. Shivaram Venkataraman** and **Prof. Yingyu Liang**. At UW-Madison, I worked on the problems related to Machine Learning and Systems. 
+ 
+  Before joining UW-Madison, I worked as an **Applied Scientist** in the **Bing, Microsoft**. I completed my **Bachelors** in **Mathematics & Computing** from [Indian Institute of Technology-Guwahati](https://www.iitg.ac.in/) in 2016.
 
-- [Hyde](https://hyde.getpoole.com)
-- [Lanyon](https://lanyon.getpoole.com)
+       
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
+<!-- ## Setup
 
 Some fun facts about the setup of this project include:
 
@@ -26,4 +24,4 @@ Some fun facts about the setup of this project include:
 
 Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 
-Thanks for reading!
+Thanks for reading! -->

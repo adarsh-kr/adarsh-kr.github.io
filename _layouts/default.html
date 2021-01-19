@@ -1,7 +1,16 @@
 <!doctype html>
 <html lang="en">
+  {% include google_analytics.html %}
 
   {% include head.html %}
+  <!-- <h3 class="masthead-title">
+    <a href="/" title="Home">{{ site.title }}</a>
+    
+    {% for page in site.pages_list %}
+      &nbsp;&nbsp;&nbsp;
+      <small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
+    {% endfor %}
+    </h3> -->
 
   <body>
 
@@ -9,7 +18,12 @@
       <header class="masthead">
         <h3 class="masthead-title">
           <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
-          <small>{{ site.tagline }}</small>
+          <!-- <small>{{ site.tagline }}</small> -->
+          {% for page in site.pages_list %}
+          &nbsp;&nbsp;&nbsp;
+          <small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
+          {% endfor %}
+
         </h3>
       </header>
 
@@ -35,4 +49,8 @@
      </script>
     {% endif %}
   </body>
+
+  <!-- {% include comments.html %} -->
 </html>
+
+
