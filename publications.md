@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-# Publications
+<!-- # Publications -->
 
 <!-- <p align="center"">
    <img src="https://imgs.xkcd.com/comics/further_research_is_needed.png" width="100%" />
