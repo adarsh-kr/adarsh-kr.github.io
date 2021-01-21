@@ -11,7 +11,7 @@ title: Publications
 
 * **Doing More by Doing Less: How Structured Partial Backpropagation Improves Deep Learning Clusters**-Adarsh Kumar, Kausik Subramanian, Shivaram Venkataraman, Aditya Akella, **under submission**
 
-* **Accelerating Deep Learning Inference via Learned Cache**-Adarsh Kumar, Arjun Balasubramanian, Yuhan Liu, Han Cao, Shivaram Venkataraman, Aditya Akella, **under submission**
+* [**Accelerating Deep Learning Inference via Learned Cache**](https://arxiv.org/pdf/2101.07344)-Adarsh Kumar*, Arjun Balasubramanian*, Yuhan Liu, Han Cao, Shivaram Venkataraman, Aditya Akella, **under submission**
 
 * [**Can Adversarial Weight Perturbations Inject Neural Backdoors?**](https://arxiv.org/pdf/2008.01761.pdf)-Adarsh Kumar*, Siddhant Garg*, Vibhor Goel*, Yingyu Liang, **CIKM-2020** 
 
