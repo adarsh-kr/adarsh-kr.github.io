@@ -3,5 +3,5 @@ layout: default
 title: 
 ---
 
-To **Baba**, the man who introduced me to science and spirituality. 
+The man who introduced me to science and spirituality, my forever best friend, **Baba**.  
 
