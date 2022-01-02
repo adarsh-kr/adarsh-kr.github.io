@@ -9,11 +9,11 @@ title: Publications
 </p>
 ![image-title-here](https://imgs.xkcd.com/comics/further_research_is_needed.png){:class="img-responsive"} -->
 
-* **Doing More by Doing Less: How Structured Partial Backpropagation Improves Deep Learning Clusters**-Adarsh Kumar, Kausik Subramanian, Shivaram Venkataraman, Aditya Akella, **under submission**
+* [**Doing More by Doing Less: How Structured Partial Backpropagation Improves Deep Learning Clusters**](https://dl.acm.org/doi/10.1145/3488659.3493778)-**Adarsh Kumar**, Kausik Subramanian, Shivaram Venkataraman, Aditya Akella, **DistributedML 2021, CoNEXT**
 
-* [**Accelerating Deep Learning Inference via Learned Cache**](https://arxiv.org/pdf/2101.07344)-Adarsh Kumar*, Arjun Balasubramanian*, Yuhan Liu, Han Cao, Shivaram Venkataraman, Aditya Akella, **under submission**
+* [**Accelerating Deep Learning Inference via Learned Cache**](https://arxiv.org/pdf/2101.07344)-**Adarsh Kumar\***, Arjun Balasubramanian*, Yuhan Liu, Han Cao, Shivaram Venkataraman, Aditya Akella, **under submission**
 
-* [**Can Adversarial Weight Perturbations Inject Neural Backdoors?**](https://arxiv.org/pdf/2008.01761.pdf)-Adarsh Kumar*, Siddhant Garg*, Vibhor Goel*, Yingyu Liang, **CIKM-2020** 
+* [**Can Adversarial Weight Perturbations Inject Neural Backdoors?**](https://arxiv.org/pdf/2008.01761.pdf)-**Adarsh Kumar**, Siddhant Garg, Vibhor Goel, Yingyu Liang, **CIKM-2020** 
 
 * [**MADST- Multi Attention Based Scalable Dialog State Tracking**](https://arxiv.org/pdf/2002.08898)-Adarsh Kumar, Peter Ku, Anuj Goyal, Angeliki Metallinou, Dilek H. Tur, **AAAI 2020**
 
@@ -21,7 +21,7 @@ title: Publications
 
 * [**Accelerating deep learning inference via freezing**](https://www.usenix.org/system/files/hotcloud19-paper-kumar.pdf)- Adarsh Kumar, Arjun Balasubramanian, Shivaram Venkataraman, Aditya Akella, **HotCloud 2019**
 
-* [**Translating Web Search Queries into Natural Language Questions**](https://arxiv.org/pdf/2002.02631.pdf)- Adarsh Kumar, Sandipan Dandapat, Sushil Chordia, **LREC 2020**
+* [**Translating Web Search Queries into Natural Language Questions**](https://arxiv.org/pdf/2002.02631.pdf)- Adarsh Kumar, Sandipan Dandapat, Sushil Chordia, **LREC 2018**
 
 
 # Patents

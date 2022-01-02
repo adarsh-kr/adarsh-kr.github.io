@@ -14,5 +14,4 @@ title: About
 
        
 
-<a href="{{https://twitter.com/kadarsh28}}">adarsh kumar</a>
 
