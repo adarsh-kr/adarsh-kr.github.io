@@ -12,6 +12,13 @@ title: Publications
 ![mobilelab's favicon](favicon.png "mobilelab's favicon title")
 ![mobilelab's favicon](/favicon.png "mobilelab's favicon title")
 
+<div class="image-txt-container">
+  <img src="https://images4.alphacoders.com/206/thumb-350-20658.jpg">
+  <h2>
+    Text here
+  </h2>
+</div>
+
 * ![pic](favicon.png "favicon_title") [**Doing More by Doing Less: How Structured Partial Backpropagation Improves Deep Learning Clusters**](https://dl.acm.org/doi/10.1145/3488659.3493778)-**Adarsh Kumar**, Kausik Subramanian, Shivaram Venkataraman, Aditya Akella, **DistributedML 2021, CoNEXT**
 
 * [**Accelerating Deep Learning Inference via Learned Cache**](https://arxiv.org/pdf/2101.07344)-**Adarsh Kumar\***, Arjun Balasubramanian*, Yuhan Liu, Han Cao, Shivaram Venkataraman, Aditya Akella, **under submission**
