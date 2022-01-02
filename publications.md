@@ -15,7 +15,7 @@ title: Publications
 
 * [**Can Adversarial Weight Perturbations Inject Neural Backdoors?**](https://arxiv.org/pdf/2008.01761.pdf)-**Adarsh Kumar**, Siddhant Garg, Vibhor Goel, Yingyu Liang, **CIKM 2020** 
 
-* [**MADST- Multi Attention Based Scalable Dialog State Tracking**](https://arxiv.org/pdf/2002.08898)-**Adarsh Kumar**, Peter Ku, Anuj Goyal, Angeliki Metallinou, Dilek H. Tur, **AAAI 2020**
+* [**MADST- Multi Attention Based Scalable Dialog State Tracking**](https://arxiv.org/pdf/2002.08898)-**Adarsh Kumar**, Peter Ku, Anuj Goyal, Angeliki Metallinou, Dilek H. Tur, **AAAI 2020, NeuRIPS Conversational AI Workshop 2019**
 
 * [**MultiWOZ 2.1: A Consolidated Multi-Domain Dialogue Dataset with State Corrections and State Tracking Baselines**](https://arxiv.org/abs/1907.01669)-Mihail Eric, Rahul Goel, Shachi Paul, **Adarsh Kumar**, Abhishek Sethi, Peter Ku, Anuj Goyal, Shuyang Gao, Dilek H. Tur, **LREC 2020**
 
