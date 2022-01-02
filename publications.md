@@ -9,8 +9,8 @@ title: Publications
 </p>
 ![image-title-here](https://imgs.xkcd.com/comics/further_research_is_needed.png){:class="img-responsive"} -->
 
-![mobilelab's favicon](favicon.png "mobilelab's favicon title")
-![mobilelab's favicon](/favicon.png "mobilelab's favicon title")
+<!-- ![mobilelab's favicon](favicon.png "mobilelab's favicon title")
+![mobilelab's favicon](/favicon.png "mobilelab's favicon title") -->
 
 <!-- <div class="image-txt-container">
   <img src="https://images4.alphacoders.com/206/thumb-350-20658.jpg">
