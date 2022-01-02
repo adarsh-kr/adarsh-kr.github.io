@@ -42,9 +42,9 @@ pages_list:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Adarsh Kumar
+  url: https://adarsh-kr.github.io/
+  email: adi28kr@gmail.com
 
 # Custom vars
 version: 3.0.0
