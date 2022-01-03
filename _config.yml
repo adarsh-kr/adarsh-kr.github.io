@@ -30,7 +30,6 @@ sass:
 pages_list:       
   About: '/about'
   Publications: '/publications'
-  Archive: '/archive'
   Quotes/Shayari: '/quotes'
   Dedication: '/dedication'
 
