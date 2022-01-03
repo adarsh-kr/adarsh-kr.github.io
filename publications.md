@@ -29,7 +29,7 @@ title: Publications
    <div>some text here</div>
 </div> -->
 
-* [**Doing More by Doing Less: How Structured Partial Backpropagation Improves Deep Learning Clusters**](https://dl.acm.org/doi/10.1145/3488659.3493778)-**Adarsh Kumar**, Kausik Subramanian, Shivaram Venkataraman, Aditya Akella, **DistributedML 2021, CoNEXT**
+* [**Doing More by Doing Less: How Structured Partial Backpropagation Improves Deep Learning Clusters**](https://dl.acm.org/doi/10.1145/3488659.3493778)-**Adarsh Kumar**, Kausik Subramanian, Shivaram Venkataraman, Aditya Akella, **DistributedML@CoNEXT2021**
 
 * [**Accelerating Deep Learning Inference via Learned Cache**](https://arxiv.org/pdf/2101.07344)-**Adarsh Kumar\***, Arjun Balasubramanian*, Yuhan Liu, Han Cao, Shivaram Venkataraman, Aditya Akella, **under submission**
 
